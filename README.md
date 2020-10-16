@@ -7,8 +7,5 @@ Esta aplicação é uma calculadora que tem como input 2 números onde calcula o
 - Full JavaScript(ES6)
 
 ---
-<div style="diplay: inline"> 
-  <img src="screenshots\screenshot.png"/>
-  <img style="width: 800px; height: auto" src="screenshots\gif.gif"/>
-</div>
+![Demo Gif](https://github.com/franconienow/super-calculadora/blob/master/screenshots/gif.gif)
 
